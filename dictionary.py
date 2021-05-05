@@ -9,3 +9,6 @@ Dict = dict((x.strip(), y.strip())
                          for element in str.split(',')))
 
 print("the Total value  is: ", Dict.get('"Total"'))
+
+
+
